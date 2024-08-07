@@ -1,0 +1,37 @@
+{
+    "category_slug": "men",
+    "match_slug": "kamilaroi-galamaays-vs-gumbayngirr-rams",
+    "team_slug": "kamilaroi-galamaays",
+    "lineup": [
+        {
+            "position": 1,
+            "jersey": "01",
+            "player": "PLAYER 01",
+            "captain": false
+        },
+        {
+            "position": 2,
+            "jersey": "02",
+            "player": "McPLAYER 02",
+            "captain": true
+        },
+        {
+            "position": 3,
+            "jersey": "03",
+            "player": "PLAYER 03",
+            "captain": false
+        },
+        {
+            "position": 4,
+            "jersey": "04",
+            "player": "PLAYER 04",
+            "captain": false
+        },
+        {
+            "position": 5,
+            "jersey": "05",
+            "player": "PLAYER 05",
+            "captain": false
+        }
+    ]
+}
