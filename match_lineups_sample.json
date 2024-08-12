@@ -35,6 +35,127 @@
                 "jersey": "05",
                 "player": "PLAYER 05",
                 "captain": false
+            },
+            {
+                "position": 6,
+                "jersey": "",
+                "player": "",
+                "captain": false
+            },
+            {
+                "position": 7,
+                "jersey": "",
+                "player": "",
+                "captain": false
+            },
+            {
+                "position": 8,
+                "jersey": "",
+                "player": "",
+                "captain": false
+            },
+            {
+                "position": 9,
+                "jersey": "",
+                "player": "",
+                "captain": false
+            },
+            {
+                "position": 10,
+                "jersey": "",
+                "player": "",
+                "captain": false
+            },
+            {
+                "position": 11,
+                "jersey": "",
+                "player": "",
+                "captain": false
+            },
+            {
+                "position": 12,
+                "jersey": "",
+                "player": "",
+                "captain": false
+            },
+            {
+                "position": 13,
+                "jersey": "",
+                "player": "",
+                "captain": false
+            },
+            {
+                "position": 14,
+                "jersey": "",
+                "player": "",
+                "captain": false
+            },
+            {
+                "position": 15,
+                "jersey": "",
+                "player": "",
+                "captain": false
+            },
+            {
+                "position": 16,
+                "jersey": "",
+                "player": "",
+                "captain": false
+            },
+            {
+                "position": 17,
+                "jersey": "",
+                "player": "",
+                "captain": false
+            },
+            {
+                "position": 18,
+                "jersey": "",
+                "player": "",
+                "captain": false
+            },
+            {
+                "position": 19,
+                "jersey": "",
+                "player": "",
+                "captain": false
+            },
+            {
+                "position": 20,
+                "jersey": "",
+                "player": "",
+                "captain": false
+            }
+            ,
+            {
+                "position": 21,
+                "jersey": "",
+                "player": "",
+                "captain": false
+            },
+            {
+                "position": 22,
+                "jersey": "",
+                "player": "",
+                "captain": false
+            },
+            {
+                "position": 23,
+                "jersey": "",
+                "player": "",
+                "captain": false
+            },
+            {
+                "position": 24,
+                "jersey": "",
+                "player": "",
+                "captain": false
+            },
+            {
+                "position": 25,
+                "jersey": "",
+                "player": "",
+                "captain": false
             }
         ],
         "coaches": "Coach A"
@@ -73,6 +194,127 @@
                 "position": 5,
                 "jersey": "05",
                 "player": "PLAYER 05",
+                "captain": false
+            },
+            {
+                "position": 6,
+                "jersey": "06",
+                "player": "McPLAYER 06",
+                "captain": false
+            },
+            {
+                "position": 7,
+                "jersey": "",
+                "player": "",
+                "captain": false
+            },
+            {
+                "position": 8,
+                "jersey": "",
+                "player": "",
+                "captain": false
+            },
+            {
+                "position": 9,
+                "jersey": "",
+                "player": "",
+                "captain": false
+            },
+            {
+                "position": 10,
+                "jersey": "",
+                "player": "",
+                "captain": false
+            },
+            {
+                "position": 11,
+                "jersey": "",
+                "player": "",
+                "captain": false
+            },
+            {
+                "position": 12,
+                "jersey": "",
+                "player": "",
+                "captain": false
+            },
+            {
+                "position": 13,
+                "jersey": "",
+                "player": "",
+                "captain": false
+            },
+            {
+                "position": 14,
+                "jersey": "",
+                "player": "",
+                "captain": false
+            },
+            {
+                "position": 15,
+                "jersey": "",
+                "player": "",
+                "captain": false
+            },
+            {
+                "position": 16,
+                "jersey": "",
+                "player": "",
+                "captain": false
+            },
+            {
+                "position": 17,
+                "jersey": "",
+                "player": "",
+                "captain": false
+            },
+            {
+                "position": 18,
+                "jersey": "",
+                "player": "",
+                "captain": false
+            },
+            {
+                "position": 19,
+                "jersey": "",
+                "player": "",
+                "captain": false
+            },
+            {
+                "position": 20,
+                "jersey": "",
+                "player": "",
+                "captain": false
+            }
+            ,
+            {
+                "position": 21,
+                "jersey": "",
+                "player": "",
+                "captain": false
+            },
+            {
+                "position": 22,
+                "jersey": "",
+                "player": "",
+                "captain": false
+            },
+            {
+                "position": 23,
+                "jersey": "",
+                "player": "",
+                "captain": false
+            },
+            {
+                "position": 24,
+                "jersey": "",
+                "player": "",
+                "captain": false
+            },
+            {
+                "position": 25,
+                "jersey": "",
+                "player": "",
                 "captain": false
             }
         ],
